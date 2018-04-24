@@ -1,6 +1,6 @@
 # Barhems
 
-This is the code for the barhems.com website.
+This is the code for the barhems website.
 
 
 <strong style="font-size:20px">Change Log</strong><br />
@@ -91,4 +91,5 @@ This is the code for the barhems.com website.
 4/6/2018: 
 <ul><li>Initial migration from HTML to a Wordpress theme</li>
 <li>Code base remained unchanegd</li>
+<li>Migrated from AWS S3 to E2, DNS record is also updated with GoDaddy
 </ul>
