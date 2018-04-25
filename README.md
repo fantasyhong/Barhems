@@ -6,22 +6,22 @@ This repo contains the custom theme for the barhems website. (http://www.barhems
 <strong style="font-size:20px">Change Log</strong><br />
 
 4/24/2018:
-<ul><li>The dropdown menu no longer needs to be clicked to show the submenu</li>
+<ul><li>The drop-down menu no longer needs to be clicked to show the submenu</li>
 <li>Background color of the submenu is changed to a dark grey color that matches the theme better</li>
 </ul>
 <br />
 
 4/23/2018:
 <ul><li>Added new pages that show the company plan</li>
-<li>Convert the html code to a template that works for any pages under the Plans dropdown menu</li>
+<li>Convert the HTML code to a template that works for any pages under the Plans drop-down menu</li>
 <li>Added a separate login account for Wordpress so that other people can also edit pages and posts</li>
 </ul>
 <br />
 
 4/20/2018:
-<ul><li>Fixed the dropdown menu problem by using WP_Bootstrap_Navwalker()</li>
+<ul><li>Fixed the drop-down menu problem by using WP_Bootstrap_Navwalker()</li>
 <li>Fixed the click delay problem by adding viewpoint meta on the top of the page</li>
-<li>Imporved support for mobile devices</li>
+<li>Improved support for mobile devices</li>
 <li>Site migration is completed for both English and Chinese</li>
 </ul>
 <br />
@@ -33,7 +33,7 @@ This repo contains the custom theme for the barhems website. (http://www.barhems
 <strike> 
 <strong style="font-size:15px">Known Issue(s)</strong><br />
 <ul>
-<li>The navigation menu for the mobile version of the webiste has a 200ms delay when the hamburger icon is clicked</li>
+<li>The navigation menu for the mobile version of the website has a 200ms delay when the hamburger icon is clicked</li>
 </ul>
 </strike>
 <br />
@@ -45,14 +45,14 @@ This repo contains the custom theme for the barhems website. (http://www.barhems
 <br />
 
 4/17/2018:
-<ul><li>With the help of the Polylang plugin, the mutli-language support is done</li>
-<li>Expermenting with the Contact Form 7 plugin</li>
+<ul><li>With the help of the Polylang plugin, the multi-language support is done</li>
+<li>Experimenting with the Contact Form 7 plugin</li>
 </ul>
 <br />
 
 4/16/2018:
 <ul><li>Start working on the multi-language support for the website</li>
-<li>Fixed some grammer problems on different pages</li>
+<li>Fixed some grammar problems on different pages</li>
 </ul>
 <br />
 
@@ -63,7 +63,7 @@ This repo contains the custom theme for the barhems website. (http://www.barhems
 <strike> 
 <strong style="font-size:15px">Known Issue(s)</strong><br />
 <ul>
-<li>The dropdown menu is not supported by Wordpress by default, so any previous dropdown menu is removed</li>
+<li>The drop-down menu is not supported by Wordpress by default, so any previous drop-down menu is removed</li>
 <li>The hard-coded language switcher remained on the nav bar</li>
 </ul>
 </strike>
@@ -77,8 +77,8 @@ This repo contains the custom theme for the barhems website. (http://www.barhems
 <br />
 
 4/9/2018:
-<ul><li>Seperate header.php and footer.php from body</li>
-<li>Merge css files in the header.php</li>
+<ul><li>Separate header.php and footer.php from body</li>
+<li>Merge CSS files in the header.php</li>
 <li>Fixed the company email issue by updating MX records with GoDaddy</li>
 </ul>
 <strike> 
@@ -91,7 +91,7 @@ This repo contains the custom theme for the barhems website. (http://www.barhems
 
 4/6/2018: 
 <ul><li>Initial migration from HTML code to a Wordpress theme</li>
-<li>Code base remained unchanegd</li>
+<li>Codebase remained unchanged</li>
 <li>Migrated from AWS S3 to E2, DNS record is also updated with GoDaddy</li>
 </ul>
 <strike> 
