@@ -530,7 +530,7 @@ footer{
 
 @media (max-width: 1024px)
 {
-	ul.dropdown-menu.show {
+	ul.dropdown-menu {
     min-width: 5rem;
 	}
 }

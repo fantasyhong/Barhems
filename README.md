@@ -5,6 +5,11 @@ This repo contains the custom theme for Barhems' website. (http://www.barhems.co
 
 <strong style="font-size:20px">Change Log</strong><br />
 
+4/25/2018:
+<ul><li>Fixed the dropdwon menu width problem on iPads</li>
+<li>Fixed the dropdown menu color problem after mouse click event happens</li>
+</ul>
+
 4/24/2018:
 <ul><li>Drop-down menu no longer needs to be clicked to show the submenu</li>
 <li>The background color of the submenu is changed to a dark grey color that matches the theme better</li>
@@ -12,7 +17,7 @@ This repo contains the custom theme for Barhems' website. (http://www.barhems.co
 <br />
 
 4/23/2018:
-<ul><li>Added new pages that show the company plan</li>
+<ul><li>Added new pages that show company plans</li>
 <li>Convert HTML code to a template that works for any pages under drop-down menu for <b>Plans</b> tab</li>
 <li>Added a separate login account so that other people can also edit pages and posts</li>
 </ul>
@@ -28,7 +33,7 @@ This repo contains the custom theme for Barhems' website. (http://www.barhems.co
 
 4/19/2018:
 <ul><li>Upgraded Bootstrap from V4.0 beta3 to V4.1</li>
-<li>Update all the links in the footer menu, like telephone and map links</div>
+<li>Update all href links in the footer menu, like telephone and map links</div>
 </ul>
 <strike> 
 <strong style="font-size:15px">Known Issue(s)</strong><br />
@@ -51,7 +56,7 @@ This repo contains the custom theme for Barhems' website. (http://www.barhems.co
 <br />
 
 4/16/2018:
-<ul><li>Start working on the multi-language support</li>
+<ul><li>Start working on multi-language support</li>
 <li>Fixed some grammar problems on different pages</li>
 </ul>
 <br />
