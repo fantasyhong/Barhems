@@ -1,6 +1,6 @@
 # Barhems
 
-This is the code for the barhems website.
+This repo contains the custom theme for the barhems website. (http://www.barhems.com)
 
 
 <strong style="font-size:20px">Change Log</strong><br />
@@ -33,7 +33,7 @@ This is the code for the barhems website.
 <strike> 
 <strong style="font-size:15px">Known Issue(s)</strong><br />
 <ul>
-<li>The navigation menu for the mobile version of the webiste has a 200ms delay when the hamburger icon is clicked/li>
+<li>The navigation menu for the mobile version of the webiste has a 200ms delay when the hamburger icon is clicked</li>
 </ul>
 </strike>
 <br />
@@ -79,6 +79,7 @@ This is the code for the barhems website.
 4/9/2018:
 <ul><li>Seperate header.php and footer.php from body</li>
 <li>Merge css files in the header.php</li>
+<li>Fixed the company email issue by updating the MX records with GoDaddy</li>
 </ul>
 <strike> 
 <strong style="font-size:15px">Known Issue(s)</strong><br />
@@ -89,7 +90,13 @@ This is the code for the barhems website.
 <br />
 
 4/6/2018: 
-<ul><li>Initial migration from HTML to a Wordpress theme</li>
+<ul><li>Initial migration from HTML code to a Wordpress theme</li>
 <li>Code base remained unchanegd</li>
-<li>Migrated from AWS S3 to E2, DNS record is also updated with GoDaddy
+<li>Migrated from AWS S3 to E2, DNS record is also updated with GoDaddy</li>
+<strike> 
+<strong style="font-size:15px">Known Issue(s)</strong><br />
+<ul>
+<li>Company emails can only send emails but not receiving emails after the DNS record is updated.</li>
+</ul>
+</strike>
 </ul>
