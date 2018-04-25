@@ -560,6 +560,8 @@ footer{
 .footer-container ul{
 	padding-left: 0;
 }
+
+/* plans page*/
 .main-header{
 	padding-top: 90px;
     padding-bottom: 20px;
@@ -593,3 +595,10 @@ footer{
     max-width: 1000px;
 }
 
+.main-header {
+    padding-top: 90px;
+    padding-bottom: 20px;
+    max-width: 1300px;
+    margin: 0 auto;
+    width: 90%;
+}

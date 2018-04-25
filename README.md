@@ -8,7 +8,9 @@ This repo contains the custom theme for Barhems' website. (http://www.barhems.co
 4/25/2018:
 <ul><li>Fixed the dropdwon menu width problem on iPads</li>
 <li>Fixed the dropdown menu color problem after mouse click event happens</li>
+<li>Fixed the heading alignment issue on <b>Plans</b> template 
 </ul>
+<br />
 
 4/24/2018:
 <ul><li>Drop-down menu no longer needs to be clicked to show the submenu</li>
@@ -20,6 +22,8 @@ This repo contains the custom theme for Barhems' website. (http://www.barhems.co
 <ul><li>Added new pages that show company plans</li>
 <li>Convert HTML code to a template that works for any pages under drop-down menu for <b>Plans</b> tab</li>
 <li>Added a separate login account so that other people can also edit pages and posts</li>
+<li>Added <b>Tuxdeo Big File Uploads</b> plugin to fix the 2 MB upload limit issue</li>
+<li>Added <b>Yoast SEO</b> plugin to improve SEO reach</li>
 </ul>
 <br />
 
@@ -44,14 +48,14 @@ This repo contains the custom theme for Barhems' website. (http://www.barhems.co
 <br />
 
 4/18/2018:
-<ul><li>Added Google Map and Connect Form 7 plugin</li>
+<ul><li>Added <b>WP Google Maps</b> and <b>Contact Form 7</b> plugin</li>
 <li>Added basic mobile support</li>
 </ul>
 <br />
 
 4/17/2018:
-<ul><li>With the help of the Polylang plugin, multi-language support is done</li>
-<li>Experimenting with Contact Form 7 plugin</li>
+<ul><li>With the help of <b>Polylang</b> plugin, multi-language support is done</li>
+<li>Experimenting with <b>Contact Form 7</b> plugin</li>
 </ul>
 <br />
 
