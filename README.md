@@ -6,14 +6,14 @@ This repo contains the custom theme for Barhems' website. (http://www.barhems.co
 <strong style="font-size:20px">Change Log</strong><br />
 
 4/24/2018:
-<ul><li>The drop-down menu no longer needs to be clicked to show the submenu</li>
-<li>Background color of the submenu is changed to a dark grey color that matches the theme better</li>
+<ul><li>Drop-down menu no longer needs to be clicked to show the submenu</li>
+<li>The background color of the submenu is changed to a dark grey color that matches the theme better</li>
 </ul>
 <br />
 
 4/23/2018:
 <ul><li>Added new pages that show the company plan</li>
-<li>Convert HTML code to a template that works for any pages under the Plans drop-down menu</li>
+<li>Convert HTML code to a template that works for any pages under drop-down menu for <b>Plans</b> tab</li>
 <li>Added a separate login account so that other people can also edit pages and posts</li>
 </ul>
 <br />
