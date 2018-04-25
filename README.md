@@ -1,6 +1,6 @@
 # Barhems
 
-This repo contains the custom theme for the barhems website. (http://www.barhems.com)
+This repo contains the custom theme for Barhems' website. (http://www.barhems.com)
 
 
 <strong style="font-size:20px">Change Log</strong><br />
@@ -13,8 +13,8 @@ This repo contains the custom theme for the barhems website. (http://www.barhems
 
 4/23/2018:
 <ul><li>Added new pages that show the company plan</li>
-<li>Convert the HTML code to a template that works for any pages under the Plans drop-down menu</li>
-<li>Added a separate login account for Wordpress so that other people can also edit pages and posts</li>
+<li>Convert HTML code to a template that works for any pages under the Plans drop-down menu</li>
+<li>Added a separate login account so that other people can also edit pages and posts</li>
 </ul>
 <br />
 
@@ -33,7 +33,7 @@ This repo contains the custom theme for the barhems website. (http://www.barhems
 <strike> 
 <strong style="font-size:15px">Known Issue(s)</strong><br />
 <ul>
-<li>Navigation menu for mobile devices has a 200ms delay when the hamburger icon is clicked</li>
+<li>Navigation menu for mobile devices has a 200ms delay when hamburger icon is clicked</li>
 </ul>
 </strike>
 <br />
@@ -57,13 +57,13 @@ This repo contains the custom theme for the barhems website. (http://www.barhems
 <br />
 
 4/13/2018:
-<ul><li>Remove the hard-coded navigation menu in the header, and replace it with wp_nav_menu()</li>
+<ul><li>Removed hard-coded navigation menu in the header, and replaced it with wp_nav_menu()</li>
 <li>Made some changes to the Tawk plugin so it matches our theme better</li>
 </ul>
 <strike> 
 <strong style="font-size:15px">Known Issue(s)</strong><br />
 <ul>
-<li>The drop-down menu is not supported by Wordpress by default, so any previous drop-down menu is removed</li>
+<li>Drop-down menu for Bootstrap is not supported by Wordpress by default, so any previous drop-down menu is removed</li>
 <li>The hard-coded language switcher remained on the nav bar</li>
 </ul>
 </strike>
