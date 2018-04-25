@@ -93,6 +93,7 @@ This repo contains the custom theme for the barhems website. (http://www.barhems
 <ul><li>Initial migration from HTML code to a Wordpress theme</li>
 <li>Code base remained unchanegd</li>
 <li>Migrated from AWS S3 to E2, DNS record is also updated with GoDaddy</li>
+</ul>
 <strike> 
 <strong style="font-size:15px">Known Issue(s)</strong><br />
 <ul>
