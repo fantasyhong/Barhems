@@ -33,32 +33,32 @@ This repo contains the custom theme for the barhems website. (http://www.barhems
 <strike> 
 <strong style="font-size:15px">Known Issue(s)</strong><br />
 <ul>
-<li>The navigation menu for the mobile version of the website has a 200ms delay when the hamburger icon is clicked</li>
+<li>Navigation menu for mobile devices has a 200ms delay when the hamburger icon is clicked</li>
 </ul>
 </strike>
 <br />
 
 4/18/2018:
-<ul><li>Added Google Map and Connect Form 7 plugin to the website</li>
+<ul><li>Added Google Map and Connect Form 7 plugin</li>
 <li>Added basic mobile support</li>
 </ul>
 <br />
 
 4/17/2018:
-<ul><li>With the help of the Polylang plugin, the multi-language support is done</li>
-<li>Experimenting with the Contact Form 7 plugin</li>
+<ul><li>With the help of the Polylang plugin, multi-language support is done</li>
+<li>Experimenting with Contact Form 7 plugin</li>
 </ul>
 <br />
 
 4/16/2018:
-<ul><li>Start working on the multi-language support for the website</li>
+<ul><li>Start working on the multi-language support</li>
 <li>Fixed some grammar problems on different pages</li>
 </ul>
 <br />
 
 4/13/2018:
-<ul><li>Remove the hard-coded navigation menu in the header, and replace it with the wp_nav_menu()</li>
-<li>Made some changes to the tawk plugin so it matches our theme better</li>
+<ul><li>Remove the hard-coded navigation menu in the header, and replace it with wp_nav_menu()</li>
+<li>Made some changes to the Tawk plugin so it matches our theme better</li>
 </ul>
 <strike> 
 <strong style="font-size:15px">Known Issue(s)</strong><br />
@@ -71,13 +71,13 @@ This repo contains the custom theme for the barhems website. (http://www.barhems
 
 
 4/12/2018:
-<ul><li>Migration is close to completion for the English version of the website</li>
+<ul><li>Migration is close to completion for the English site</li>
 <li>Added wp_footer() in the footer.php to fix the plugin not working issue</li>
 </ul>
 <br />
 
 4/9/2018:
-<ul><li>Separate header.php and footer.php from body</li>
+<ul><li>Separate header.php and footer.php from body content</li>
 <li>Merge CSS files in the header.php</li>
 <li>Fixed the company email issue by updating MX records with GoDaddy</li>
 </ul>
