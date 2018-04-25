@@ -14,7 +14,7 @@ This repo contains the custom theme for the barhems website. (http://www.barhems
 4/23/2018:
 <ul><li>Added new pages that show the company plan</li>
 <li>Convert the html code to a template that works for any pages under the Plans dropdown menu</li>
-<li>Added a seperate login account for Wordpress so that other people can also edit pages and posts</li>
+<li>Added a separate login account for Wordpress so that other people can also edit pages and posts</li>
 </ul>
 <br />
 
@@ -27,7 +27,7 @@ This repo contains the custom theme for the barhems website. (http://www.barhems
 <br />
 
 4/19/2018:
-<ul><li>Upgrated Bootstrap from 4.0 beta 3 to 4.1</li>
+<ul><li>Upgraded Bootstrap from V4.0 beta3 to V4.1</li>
 <li>Update all the links in the footer menu, like telephone and map links</div>
 </ul>
 <strike> 
@@ -79,7 +79,7 @@ This repo contains the custom theme for the barhems website. (http://www.barhems
 4/9/2018:
 <ul><li>Seperate header.php and footer.php from body</li>
 <li>Merge css files in the header.php</li>
-<li>Fixed the company email issue by updating the MX records with GoDaddy</li>
+<li>Fixed the company email issue by updating MX records with GoDaddy</li>
 </ul>
 <strike> 
 <strong style="font-size:15px">Known Issue(s)</strong><br />
@@ -97,7 +97,7 @@ This repo contains the custom theme for the barhems website. (http://www.barhems
 <strike> 
 <strong style="font-size:15px">Known Issue(s)</strong><br />
 <ul>
-<li>Company emails can only send emails but not receiving emails after the DNS record is updated.</li>
+<li>Company emails can only send emails but not receiving emails after DNS record is updated.</li>
 </ul>
 </strike>
 </ul>
