@@ -30,8 +30,8 @@ This repo contains the custom theme for Barhems' website. (http://www.barhems.co
 <br />
 
 4/25/2018:
-<ul><li>Fixed the dropdwon menu width problem on iPads</li>
-<li>Fixed the dropdown menu color problem after mouse click event happens</li>
+<ul><li>Fixed the drop-down menu width problem on iPads</li>
+<li>Fixed the drop-down menu color problem after mouse click event happens</li>
 <li>Fixed the heading alignment issue on <b>Plans</b> template</li>
 <li>Experimenting with <b>Apply online</b> plugin </li> 
 </ul>

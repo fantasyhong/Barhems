@@ -635,6 +635,7 @@ footer{
 }
 
 /*career page*/
+/*Css is based on applyonline-public.css (v1.9.8) and storefront theme from woocommerce (v2.2.8)*/
 @media (min-width: 768px){
 	.page-template-default .col-md-3{
 		display: inline-block;
