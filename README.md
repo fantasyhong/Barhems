@@ -7,12 +7,13 @@ This repo contains the custom theme for Barhems' website. (http://www.barhems.co
 
 4/27/2018:
 <ul><li>Pushed <b>Apply online</b> plugin live to the <b>Career</b> page</li>
-<li>Fixed the applcation saving issue by using <b>Contact Form 7</b> plugin for submission</li> 
+<li>Fixed the application saving issue by using <b>Contact Form 7</b> plugin for submission</li>
+<li>Fixed the layout issue on the resume submission page</li> 
 </ul>
 <strong style="font-size:15px">Known Issue(s)</strong><br />
 <ul>
-<li>Mobile support for the <b>Career</b> page needs improvement</li>
-<li>Applicant has to enter which position they need to apply manually</li>
+<strike><li>Mobile support for the <b>Career</b> page needs improvement</li></strike>
+<li>Every applicant has to enter which position they need to apply manually</li>
 </ul>
 <br />
 
