@@ -833,7 +833,7 @@ h3.aol-heading {
 }
 
 h3.heading{
-	margin-top:5em;
+	margin-top:3em;
 }
 
 .personal_details,.other_info{
@@ -916,4 +916,12 @@ h3.heading{
 	h4.other_info{
 		padding-left: 0px;
 	}
+}
+
+input.wpcf7-form-control.wpcf7dtx-dynamictext.wpcf7-dynamictext {
+    width: 100%;
+}
+
+.aol_career-template-default .news-wrapper p:nth-last-of-type(2){
+	padding-bottom: 2em;
 }
