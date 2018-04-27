@@ -3,11 +3,7 @@
  <div class="news-header">
 	    	<div class="fs-row">
 	         	<div class="fs-cell typography">
-    				<h1><?php echo pll__( 'News' );?></h1>
         		</div>
-        		<div class="fs-cell">
-    				<hr>
-    			</div>
 	    	</div>
         </div>
 
@@ -42,12 +38,12 @@
         		<?php the_content(); ?>
         		</div>
 		<?php endwhile; endif; ?>
-      <div class="go-back">
+      <!-- <div class="go-back">
         <?php
         $url = htmlspecialchars($_SERVER['HTTP_REFERER']);
         echo "<a class='go-back-button' href='$url'>";?>
         <?php echo pll__( 'Go Back' ),'</a>';?> 
-      </div>
+      </div> -->
 </div>
 </main>
 <?php get_footer(); ?>

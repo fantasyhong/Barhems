@@ -5,10 +5,34 @@ This repo contains the custom theme for Barhems' website. (http://www.barhems.co
 
 <strong style="font-size:20px">Change Log</strong><br />
 
+4/27/2018:
+<ul><li>Pushed <b>Apply online</b> plugin live to the <b>Career</b> page</li>
+<li>Fixed the applcation saving issue by using <b>Contact Form 7</b> plugin for submission</li> 
+</ul>
+<strong style="font-size:15px">Known Issue(s)</strong><br />
+<ul>
+<li>Mobile support for the <b>Career</b> page needs improvement</li>
+<li>Applicant has to enter which position they need to apply manually</li>
+</ul>
+<br />
+
+4/26/2018:
+<ul><li>Still trying out <b>Apply online</b> plugin</li> 
+</ul>
+<strike> 
+<strong style="font-size:15px">Known Issue(s)</strong><br />
+<ul>
+<li>After an applicant clicks Submit, the page refreshes itself without saving the application</li>
+<li>The default layout looks hideous</li>
+</ul>
+</strike>
+<br />
+
 4/25/2018:
 <ul><li>Fixed the dropdwon menu width problem on iPads</li>
 <li>Fixed the dropdown menu color problem after mouse click event happens</li>
-<li>Fixed the heading alignment issue on <b>Plans</b> template 
+<li>Fixed the heading alignment issue on <b>Plans</b> template</li>
+<li>Experimenting with <b>Apply online</b> plugin </li> 
 </ul>
 <br />
 

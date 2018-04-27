@@ -35,6 +35,17 @@ function wpdocs_custom_excerpt_length( $length ) {
 }
 add_filter( 'excerpt_length', 'wpdocs_custom_excerpt_length', 999 );
 
+//CSS for the job board
+add_action('job_bm_action_before_single_job', 'job_bm_action_before_single_job', 10);
+add_action('job_bm_action_after_single_job', 'job_bm_action_after_single_job', 10);
+
+function job_bm_action_before_single_job() {
+  echo '<div class="content-wrapper ">';
+}
+
+function job_bm_action_after_single_job() {
+  echo '</div>';
+}
 
 //Home Page Localization
 pll_register_string( 'News', 'News' );
