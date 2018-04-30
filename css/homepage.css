@@ -942,3 +942,7 @@ input.wpcf7-form-control.wpcf7dtx-dynamictext.wpcf7-dynamictext {
 .aol_career-template-default span.wpcf7-list-item-label {
     padding-right: 20px;
 }
+
+span.wpcf7-not-valid-tip {
+    color: red;
+}

@@ -8,6 +8,7 @@ This repo contains the custom theme for Barhems' website. (http://www.barhems.co
 
 4/30/2018:
 <ul><li>Added Gender option on the <b>Apply Now</b> page</li>
+<li>Applicant will receive a confirmation email after the application is submitted</li>
 </ul>
 <br />
 
