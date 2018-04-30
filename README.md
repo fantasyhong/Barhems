@@ -5,6 +5,12 @@ This repo contains the custom theme for Barhems' website. (http://www.barhems.co
 
 <strong style="font-size:20px">Change Log</strong><br />
 
+
+4/30/2018:
+<ul><li>Added Gender option on the <b>Apply Now</b> page</li>
+</ul>
+<br />
+
 4/27/2018:
 <ul><li>Pushed <b>Apply online</b> plugin live to the <b>Career</b> page</li>
 <li>Fixed the application saving issue by using <b>Contact Form 7</b> plugin for submission</li>

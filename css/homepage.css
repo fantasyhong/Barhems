@@ -853,7 +853,7 @@ h3.heading{
     color: #43454b;
     outline: 0;
     border: 0;
-    -webkit-appearance: none;
+    /*-webkit-appearance: none;*/
     box-sizing: border-box;
     font-weight: 400;
     box-shadow: inset 0 1px 1px rgba(0,0,0,.125);
@@ -902,7 +902,7 @@ h3.heading{
     float: left !important;
 	}
 
-	.aol_career-template-default label{
+	.aol_career-template-default label,.aol_career-template-default .gender{
 	margin-left:1.33rem;
 	margin-right:1.33rem;
 	}
@@ -924,4 +924,21 @@ input.wpcf7-form-control.wpcf7dtx-dynamictext.wpcf7-dynamictext {
 
 .aol_career-template-default .news-wrapper p:nth-last-of-type(2){
 	padding-bottom: 2em;
+}
+
+.aol_career-template-default .gender{
+	font-style: normal;
+    /* font-weight: 300; */
+    color: #383838ba;
+    line-height: 1.6;
+    font-size: 1.25rem;
+    font-family: "Chaparral W01",Georgia,Times,"Times New Roman",serif;
+}
+
+.other_info p:nth-last-of-type(2){
+	padding-bottom: 0 !important;
+}
+
+.aol_career-template-default span.wpcf7-list-item-label {
+    padding-right: 20px;
 }
