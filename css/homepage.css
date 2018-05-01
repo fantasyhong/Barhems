@@ -902,7 +902,7 @@ h3.heading{
     float: left !important;
 	}
 
-	.aol_career-template-default label,.aol_career-template-default .gender{
+	.aol_career-template-default label,.aol_career-template-default .gender,.aol_career-template-default .visa_status{
 	margin-left:1.33rem;
 	margin-right:1.33rem;
 	}
@@ -926,7 +926,7 @@ input.wpcf7-form-control.wpcf7dtx-dynamictext.wpcf7-dynamictext {
 	padding-bottom: 2em;
 }
 
-.aol_career-template-default .gender{
+.aol_career-template-default .gender,.aol_career-template-default .visa_status{
 	font-style: normal;
     /* font-weight: 300; */
     color: #383838ba;
@@ -940,9 +940,26 @@ input.wpcf7-form-control.wpcf7dtx-dynamictext.wpcf7-dynamictext {
 }
 
 .aol_career-template-default span.wpcf7-list-item-label {
-    padding-right: 20px;
+    padding-right: 10px;
 }
 
 span.wpcf7-not-valid-tip {
     color: red;
+}
+
+.visa_status{
+	margin-top:10px;
+}
+
+.page_not_found h1{
+		font-size: 20rem;
+}
+.page_not_found{
+	text-align: center;
+}
+
+@media (max-width: 573px){
+	.page_not_found h1{
+		font-size: 10rem;
+	}
 }

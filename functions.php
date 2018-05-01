@@ -77,6 +77,3 @@ pll_register_string( 'Home Page', 'Hours of Operation:' );
 pll_register_string( 'Home Page', '9:00am - 6:00pm (Mon-Fri)' );
 pll_register_string( 'Home Page', 'Linkedin' );
 ?>
-
-
-

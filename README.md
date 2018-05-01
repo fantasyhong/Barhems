@@ -5,6 +5,14 @@ This repo contains the custom theme for Barhems' website. (http://www.barhems.co
 
 <strong style="font-size:20px">Change Log</strong><br />
 
+5/1/2018:
+<ul><li>Added Social Media, Cover Letter and Work Authorization option on the <b>Apply Now</b> page</li>
+<li>Admin will receive a more formatted email after each submission on the <b>Career</b> page</li>
+<li>Fixed <b>Yoast SEO</b> site-map error</li>
+<li>Added 404 page</li>
+</ul>
+<br />
+
 
 4/30/2018:
 <ul><li>Added Gender option on the <b>Apply Now</b> page</li>
