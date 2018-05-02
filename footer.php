@@ -74,9 +74,4 @@
 </div>
 
 </div>
-<script src="<?php bloginfo('template_url'); ?>/js/homepage.js"></script>
-	<script src="<?php bloginfo('template_url'); ?>/js/build.js"></script>
-	<script src="<?php bloginfo('template_url'); ?>/vendor/owl.carousel.min.js"></script>
-	<script src="<?php bloginfo('template_url'); ?>/js/projects-carousel.js"></script>
-
  <?php wp_footer(); ?>

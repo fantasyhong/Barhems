@@ -5,6 +5,12 @@ This repo contains the custom theme for Barhems' website. (http://www.barhems.co
 
 <strong style="font-size:20px">Change Log</strong><br />
 
+5/2/2018:
+<ul><li>Fixed some UI issues on iPad Pro</li>
+<li>Removed useless JS from footer</li>
+</ul>
+<br />
+
 5/1/2018:
 <ul><li>Added Social Media, Cover Letter and Work Authorization option on the <b>Apply Now</b> page</li>
 <li>Admin will receive a more formatted email after each submission on the <b>Career</b> page</li>

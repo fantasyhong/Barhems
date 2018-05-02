@@ -822,7 +822,7 @@ h3.aol-heading {
 }
 
 .aol_career-template-default input.wpcf7-submit{
-	margin-top: 20px;
+	margin-top: 35px;
 }
 
 @media (max-width: 767px){
@@ -962,4 +962,8 @@ span.wpcf7-not-valid-tip {
 	.page_not_found h1{
 		font-size: 10rem;
 	}
+}
+
+h4.personal_details {
+    width: 100% !important;
 }
