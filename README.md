@@ -7,7 +7,7 @@ This repo contains the custom theme for Barhems' website. (http://www.barhems.co
 
 5/2/2018:
 <ul><li>Fixed some UI issues on iPad Pro</li>
-<li>Removed useless JS from footer</li>
+<li>Removed unused JS from footer</li>
 </ul>
 <br />
 
