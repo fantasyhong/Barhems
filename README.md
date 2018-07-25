@@ -1,9 +1,14 @@
 # Barhems
 
-This repo contains the custom theme for Barhems' website. (http://www.barhems.com)
+This repo contains the custom theme for Barhems' website. (https://www.barhems.com)
 
 
 <strong style="font-size:20px">Change Log</strong><br />
+
+7/25/2018:
+<ul><li>HTTPS is enabled on the website</li>
+</ul>
+<br />
 
 5/2/2018:
 <ul><li>Fixed some UI issues on iPad Pro</li>
