@@ -59,7 +59,7 @@
 			</div>
 			<div class="footer-widge">
 				<div class="widge-wrapper" style="align-items: center;">
-					<img class="footer-logo" src="<?php bloginfo('template_url'); ?>/imgs/footer-logo-294x300.png">
+					<img class="footer-logo lazy" data-src="<?php bloginfo('template_url'); ?>/imgs/footer-logo-294x300.png">
 				</div>
 			</div>
 		</div>
