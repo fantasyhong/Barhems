@@ -967,3 +967,37 @@ span.wpcf7-not-valid-tip {
 h4.personal_details {
     width: 100% !important;
 }
+
+
+
+.main-plan-content {
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 1.67;
+    text-align: center;
+    color: #282f3cb5;
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+@media (max-width: 1036px){
+	.main-plan-content img{
+		width: 100%;
+		height: 100%;
+	}
+}
+
+@media (min-width: 989px){
+.google-maps {
+    /* float: right; */
+    width: 48%;
+    float: right;
+}
+}
+
+@media (max-width: 988px){
+.google-maps iframe {
+    height: 400px;
+	}
+}

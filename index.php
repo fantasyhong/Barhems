@@ -14,7 +14,8 @@
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js" integrity="sha384-cs/chFZiN24E4KMATLdqdvsezGxaGsi4hLGOzlXwp5UZB1LY//20VyM2taTB4QvJ" crossorigin="anonymous"></script>
 	<script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
 	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js" integrity="sha384-uefMccjFJAIv6A+rW+L4AHf99KvxDjWSu1z9VI8SKNVmz4sk7buKt/6v9KI65qnm" crossorigin="anonymous"></script>
-	<!-- <script src="<?php bloginfo('template_url'); ?>/js/home.js"></script> -->
+	<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery.lazy/1.7.9/jquery.lazy.min.js"></script>
+	<script src="<?php bloginfo('template_url'); ?>/js/home.js"></script>
 </head>
 
 <?php echo '<body class="'.join(' ', get_body_class()).'">'.PHP_EOL; ?>
@@ -61,7 +62,7 @@
 					</div>
 				</nav>
 			</div>
-	<div class="banner" style="background-image: url('<?php bloginfo('template_url'); ?>/imgs/BigBanner1.jpg');
+	<div class="banner" style="background-image: url('https://i1.wp.com/www.barhems.com/wp-content/uploads/2018/07/BigBanner1.jpg?resize=2560%2C1023&ssl=1');
 			background-repeat: no-repeat;
 			background-size: cover;
 			background-position: 50%;
@@ -90,7 +91,7 @@
 			<div class="owl-carousel owl-theme">
 				<div class="item">
 					<div class="project-wrapper">
-						<img src="<?php bloginfo('template_url'); ?>/imgs/project1.jpg">
+						<img class="lazy" data-src="<?php bloginfo('template_url'); ?>/imgs/project1.jpg">
 						<div class="description">
 							<div class="des-wrapper">
 								<strong class='des-item'><?php echo pll__('Project Name:');?></strong><span>Barhems City</span><br/>
@@ -102,7 +103,7 @@
 				</div>
 				<div class="item">
 					<div class="project-wrapper">
-						<img src="<?php bloginfo('template_url'); ?>/imgs/project2.jpg">
+						<img class="lazy" data-src="<?php bloginfo('template_url'); ?>/imgs/project2.jpg">
 						<div class="description">
 							<div class="des-wrapper">
 								<strong class='des-item'><?php echo pll__('Project Name:');?></strong><span>Barhems Mall </span><br/>
@@ -114,7 +115,7 @@
 				</div>
 				<div class="item">
 					<div class="project-wrapper">
-						<img src="<?php bloginfo('template_url'); ?>/imgs/project3.jpg">
+						<img class="lazy" data-src="<?php bloginfo('template_url'); ?>/imgs/project3.jpg">
 						<div class="description">
 							<div class="des-wrapper">
 								<strong class='des-item'><?php echo pll__('Project Name:');?></strong><span>Spa Hotel</span><br/>
@@ -133,12 +134,12 @@
 			</div>
 			<div class="intro1-row">
 				<div class="row-left">
-					<div class="intro1-img" style="background-image: url('<?php bloginfo('template_url'); ?>/imgs/intro1.jpg');"></div>
+					<div class="intro1-img lazy" data-src="https://i1.wp.com/www.barhems.com/wp-content/uploads/2018/07/intro1.jpg?resize=736%2C919&ssl=1"></div>
 				</div>
 				<div class="row-right">
 					<div class="intro1-content">
 						<div class="container-icon">
-							<img src="<?php bloginfo('template_url'); ?>/imgs/icon1.png">
+							<img class="lazy" data-src="<?php bloginfo('template_url'); ?>/imgs/icon1.png">
 						</div>
 						<div class="container-heading"><?php echo pll__('Commercial Real Estate ');?></div>
 						<div class="container-description"><?php echo pll__('If you are looking for a loyal partner in Commercial Real Estate related field, Barhems Corporation will be your best choice.');?></div>
@@ -149,24 +150,24 @@
 				<div class="row-left">
 					<div class="intro2-content">
 						<div class="container-icon">
-							<img src="<?php bloginfo('template_url'); ?>/imgs/icon2.png">
+							<img class="lazy" data-src="<?php bloginfo('template_url'); ?>/imgs/icon2.png">
 						</div>
 						<div class="container-heading"><?php echo pll__('Shopping with us ');?></div>
 						<div class="container-description"><?php echo pll__("Our online shopping platform brings convenience to your daily life, and it's our pleasure to provide anything you are looking for. We guarantee your 100% satisfaction.");?></div>
 					</div>
 				</div>
 				<div class="row-right">
-					<div class="intro2-img" style="background-image: url('<?php bloginfo('template_url'); ?>/imgs/intro2.jpg');"></div>
+					<div class="intro2-img lazy" data-src="<?php bloginfo('template_url'); ?>/imgs/intro2.jpg"></div>
 				</div>
 			</div>
 			<div class="intro3-row">
 				<div class="row-left">
-					<div class="intro3-img" style="background-image: url('<?php bloginfo('template_url'); ?>/imgs/intro3.jpg');"></div>
+					<div class="intro3-img lazy" data-src="<?php bloginfo('template_url'); ?>/imgs/intro3.jpg"></div>
 				</div>
 				<div class="row-right">
 					<div class="intro3-content">
 						<div class="container-icon">
-							<img src="<?php bloginfo('template_url'); ?>/imgs/icon3.png">
+							<img class="lazy" data-src="<?php bloginfo('template_url'); ?>/imgs/icon3.png">
 						</div>
 						<div class="container-heading"><?php echo pll__('Financial Consulting');?></div>
 						<div class="container-description"><?php echo pll__("Our financial team will provide you with dedicated financial planning, assets management, and investment portfolio optimization.");?></div>

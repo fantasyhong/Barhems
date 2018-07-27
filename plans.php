@@ -29,7 +29,7 @@
 
                               ?>
             </div>
-            <div class="main-content">
+            <div class="main-plan-content">
             	<?php the_content(); ?>
             </div>
             <?php endwhile; endif; ?>

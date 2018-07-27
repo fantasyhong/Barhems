@@ -5,6 +5,12 @@ This repo contains the custom theme for Barhems' website. (https://www.barhems.c
 
 <strong style="font-size:20px">Change Log</strong><br />
 
+7/27/2018:
+<ul><li>Lazy loading enabled to improve loading speed</li>
+<li><b>Jetpack</b> plugin installed to compress large images</li>
+</ul>
+<br />
+
 7/25/2018:
 <ul><li>HTTPS is enabled on the website</li>
 </ul>

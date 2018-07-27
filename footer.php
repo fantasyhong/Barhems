@@ -59,7 +59,7 @@
 			</div>
 			<div class="footer-widge">
 				<div class="widge-wrapper" style="align-items: center;">
-					<img class="footer-logo" src="<?php bloginfo('template_url'); ?>/imgs/footer-logo.png">
+					<img class="footer-logo" src="<?php bloginfo('template_url'); ?>/imgs/footer-logo-294x300.png">
 				</div>
 			</div>
 		</div>
@@ -72,6 +72,7 @@
 			</p>
 		</div>
 </div>
-
+		<script src="<?php bloginfo('template_url'); ?>/vendor/owl.carousel.min.js"></script>
+		<script src="<?php bloginfo('template_url'); ?>/js/projects-carousel.js"></script>
 </div>
  <?php wp_footer(); ?>
