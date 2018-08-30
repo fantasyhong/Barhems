@@ -7,6 +7,7 @@ This repo contains the custom theme for Barhems' website. (https://www.barhems.c
 
 8/30/2018:
 <ul><li>Added alt tag on images</li>
+</ul>
 <br />
 
 7/27/2018:
