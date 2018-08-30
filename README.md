@@ -5,6 +5,10 @@ This repo contains the custom theme for Barhems' website. (https://www.barhems.c
 
 <strong style="font-size:20px">Change Log</strong><br />
 
+8/30/2018:
+<ul><li>Added alt tag on images</li>
+<br />
+
 7/27/2018:
 <ul><li>Lazy loading enabled to improve loading speed</li>
 <li><b>Jetpack</b> plugin installed to compress large images</li>

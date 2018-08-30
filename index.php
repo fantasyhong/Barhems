@@ -25,7 +25,7 @@
 				<nav class="navbar navbar-expand-lg navbar-light">
 					<div class ="container">
 					<a class="navbar-brand" href="<?php echo esc_url( home_url( '/' ) ); ?>">
-						<img src="<?php bloginfo('template_url'); ?>/imgs/footer-logo.png" style="margin-right:6px; width: 40px; height: 40px;">
+						<img src="<?php bloginfo('template_url'); ?>/imgs/footer-logo.png" style="margin-right:6px; width: 40px; height: 40px;" alt="footer-logo">
 						<span>BARHEMS</span>
 					</a>
 					<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -91,7 +91,7 @@
 			<div class="owl-carousel owl-theme">
 				<div class="item">
 					<div class="project-wrapper">
-						<img class="lazy" data-src="<?php bloginfo('template_url'); ?>/imgs/project1.jpg">
+						<img class="lazy" data-src="<?php bloginfo('template_url'); ?>/imgs/project1.jpg" alt="project1">
 						<div class="description">
 							<div class="des-wrapper">
 								<strong class='des-item'><?php echo pll__('Project Name:');?></strong><span>Barhems City</span><br/>
@@ -103,7 +103,7 @@
 				</div>
 				<div class="item">
 					<div class="project-wrapper">
-						<img class="lazy" data-src="<?php bloginfo('template_url'); ?>/imgs/project2.jpg">
+						<img class="lazy" data-src="<?php bloginfo('template_url'); ?>/imgs/project2.jpg" alt="project2">
 						<div class="description">
 							<div class="des-wrapper">
 								<strong class='des-item'><?php echo pll__('Project Name:');?></strong><span>Barhems Mall </span><br/>
@@ -115,7 +115,7 @@
 				</div>
 				<div class="item">
 					<div class="project-wrapper">
-						<img class="lazy" data-src="<?php bloginfo('template_url'); ?>/imgs/project3.jpg">
+						<img class="lazy" data-src="<?php bloginfo('template_url'); ?>/imgs/project3.jpg" alt="project3">
 						<div class="description">
 							<div class="des-wrapper">
 								<strong class='des-item'><?php echo pll__('Project Name:');?></strong><span>Spa Hotel</span><br/>
@@ -139,7 +139,7 @@
 				<div class="row-right">
 					<div class="intro1-content">
 						<div class="container-icon">
-							<img class="lazy" data-src="<?php bloginfo('template_url'); ?>/imgs/icon1.png">
+							<img class="lazy" data-src="<?php bloginfo('template_url'); ?>/imgs/icon1.png" alt="icon1">
 						</div>
 						<div class="container-heading"><?php echo pll__('Commercial Real Estate ');?></div>
 						<div class="container-description"><?php echo pll__('If you are looking for a loyal partner in Commercial Real Estate related field, Barhems Corporation will be your best choice.');?></div>
@@ -150,7 +150,7 @@
 				<div class="row-left">
 					<div class="intro2-content">
 						<div class="container-icon">
-							<img class="lazy" data-src="<?php bloginfo('template_url'); ?>/imgs/icon2.png">
+							<img class="lazy" data-src="<?php bloginfo('template_url'); ?>/imgs/icon2.png" alt="icon2">
 						</div>
 						<div class="container-heading"><?php echo pll__('Shopping with us ');?></div>
 						<div class="container-description"><?php echo pll__("Our online shopping platform brings convenience to your daily life, and it's our pleasure to provide anything you are looking for. We guarantee your 100% satisfaction.");?></div>
@@ -167,7 +167,7 @@
 				<div class="row-right">
 					<div class="intro3-content">
 						<div class="container-icon">
-							<img class="lazy" data-src="<?php bloginfo('template_url'); ?>/imgs/icon3.png">
+							<img class="lazy" data-src="<?php bloginfo('template_url'); ?>/imgs/icon3.png" alt="icon3">
 						</div>
 						<div class="container-heading"><?php echo pll__('Financial Consulting');?></div>
 						<div class="container-description"><?php echo pll__("Our financial team will provide you with dedicated financial planning, assets management, and investment portfolio optimization.");?></div>
