@@ -4,6 +4,7 @@ This repo contains the custom theme for Barhems' website. (https://www.barhems.c
 
 
 <strong style="font-size:20px">Change Log</strong><br />
+
 9/5/2018:
 <ul>
 	<li>Fixed the animation problem for the submit button on the Contact Us page</li>
