@@ -459,26 +459,34 @@ footer{
     border: 1px solid transparent;
 }
 
-.contact-us input.wpcf7-submit:hover,.aol_career-template-default input.wpcf7-submit:hover {
+.contact-us input.wpcf7-submit,.aol_career-template-default input.wpcf7-submit{
+	transition: background-color 150ms ease-in-out;
+}
+
+.aol_career-template-default input.wpcf7-submit:hover {
     background-color: #2c2f3c;
     border-color: #2c2f3c;
 }
 
-.contact-us input.wpcf7-submit:active,.aol_career-template-default input.wpcf7-submit:active {
-    background-color: #656d74;
-    border-color: #656d74;
+.contact-us input.wpcf7-submit:hover{
+	background-color: #2c2f3c;
+    border-color: #2c2f3c;
 }
-.aol_career-template-default input.wpcf7-submit:active,
-.aol_career-template-default input.wpcf7-submit:focus,
-.aol_career-template-default input.wpcf7-submit:active,
-.contact-us input.wpcf7-submit:active,
-.contact-us input.wpcf7-submit:focus,
-.contact-us input.wpcf7-submit:active{
-	background-image: none;
-  	outline: 0;
-  	-webkit-box-shadow: none;
-          box-shadow: none;
+
+
+.contact-us input.wpcf7-submit:active,.aol_career-template-default input.wpcf7-submit:active{
+	animation-name:button-color-active;
+	animation-duration: 1ms;
+	animation-fill-mode: forwards;
 }
+
+@keyframes button-color-active{
+	100%{
+		background-color: #656d74;
+    	border-color: #656d74;
+	}
+}
+
 @media (min-width: 989px){
 
 	.contact-us .wpcf7{
@@ -505,6 +513,9 @@ footer{
 	    width: 4%;
 	    height: 850px
 	}*/
+	.aol_career-template-default input.wpcf7-submit{
+		width:12%;
+	}
 	.contact-us{
 		width: 100%;
 		height: 850px;
@@ -530,6 +541,10 @@ footer{
 	}
 	.contact-us input.wpcf7-submit{
 		width:50%;
+	}
+
+	.aol_career-template-default input.wpcf7-submit{
+		
 	}
 	.contact-us .wpcf7{
 		text-align: center;
