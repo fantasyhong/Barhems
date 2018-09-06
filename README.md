@@ -5,6 +5,12 @@ This repo contains the custom theme for Barhems' website. (https://www.barhems.c
 
 <strong style="font-size:20px">Change Log</strong><br />
 
+9/6/2018:
+<ul>
+	<li>Resolved the Bootstrap CDN loading issue on Apple devices</li>
+</ul>
+<br />
+
 9/5/2018:
 <ul>
 	<li>Fixed the animation problem for the submit button on the Contact Us page</li>

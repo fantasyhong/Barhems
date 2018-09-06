@@ -6,14 +6,14 @@
 	<title>Barhems Corporation</title>
 	<link rel="icon" href="<?php bloginfo('template_url'); ?>/imgs/logo.jpg" type="image/x-icon">
 	<link rel="shortcut icon" href="<?php bloginfo('template_url'); ?>/imgs/logo.jpg" type="image/x-icon">
-	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4" crossorigin="anonymous">
+	<link rel="stylesheet" type="text/css" href="<?php bloginfo('template_url'); ?>/css/bootstrap.min.css">
 	<link rel="stylesheet" type="text/css" href="<?php bloginfo('template_url'); ?>/css/homepage.css">
 	<link rel="stylesheet" type="text/css" href="<?php bloginfo('template_url'); ?>/vendor/owl.carousel.min.css">
 	<link rel="stylesheet" type="text/css" href="<?php bloginfo('template_url'); ?>/vendor/owl.theme.default.css">
-	<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.slim.min.js"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js" integrity="sha384-cs/chFZiN24E4KMATLdqdvsezGxaGsi4hLGOzlXwp5UZB1LY//20VyM2taTB4QvJ" crossorigin="anonymous"></script>
-	<script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
-	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js" integrity="sha384-uefMccjFJAIv6A+rW+L4AHf99KvxDjWSu1z9VI8SKNVmz4sk7buKt/6v9KI65qnm" crossorigin="anonymous"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	<script src="<?php bloginfo('template_url'); ?>/js/bootstrap.min.js"></script>
 	<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery.lazy/1.7.9/jquery.lazy.min.js"></script>
 	<script src="<?php bloginfo('template_url'); ?>/js/home.js"></script>
 </head>
@@ -91,7 +91,7 @@
 			<div class="owl-carousel owl-theme">
 				<div class="item">
 					<div class="project-wrapper">
-						<img class="lazy" data-src="<?php bloginfo('template_url'); ?>/imgs/project1.jpg" alt="project1">
+						<img src="<?php bloginfo('template_url'); ?>/imgs/project1.jpg" alt="project1">
 						<div class="description">
 							<div class="des-wrapper">
 								<strong class='des-item'><?php echo pll__('Project Name:');?></strong><span>Barhems City</span><br/>
@@ -103,7 +103,7 @@
 				</div>
 				<div class="item">
 					<div class="project-wrapper">
-						<img class="lazy" data-src="<?php bloginfo('template_url'); ?>/imgs/project2.jpg" alt="project2">
+						<img src="<?php bloginfo('template_url'); ?>/imgs/project2.jpg" alt="project2">
 						<div class="description">
 							<div class="des-wrapper">
 								<strong class='des-item'><?php echo pll__('Project Name:');?></strong><span>Barhems Mall </span><br/>
@@ -111,17 +111,6 @@
 							</div>
 						</div>
 						
-					</div>
-				</div>
-				<div class="item">
-					<div class="project-wrapper">
-						<img class="lazy" data-src="<?php bloginfo('template_url'); ?>/imgs/project3.jpg" alt="project3">
-						<div class="description">
-							<div class="des-wrapper">
-								<strong class='des-item'><?php echo pll__('Project Name:');?></strong><span>Spa Hotel</span><br/>
-								<strong class='des-item'><?php echo pll__('Investment Size:');?></strong><span>$88 Million</span>
-							</div>
-						</div>
 					</div>
 				</div>
 			</div>	

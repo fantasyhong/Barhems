@@ -442,6 +442,12 @@ footer{
 	}
 }
 
+@media (min-width: 1280px){
+	.projects-carousel {
+    width: 1000px;
+    margin: auto;
+	}
+}
 
 @media (max-width: 414px){
 	.banner-slider{
@@ -1016,3 +1022,5 @@ h4.personal_details {
     height: 400px;
 	}
 }
+
+
