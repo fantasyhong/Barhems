@@ -83,7 +83,7 @@
 		<div class="projects-home-header">
 			<h2><?php echo pll__('Primary Projects');?></h2>
 			<p class="intro-text">
-				<?php echo pll__("Focusing on real estate and capital investment, Barhems has 3 major projects in prime locations in NYC. We plan to develop a Barhems Mall with the luxury rental on the currently Macy's location in the heart of Flushing. In addition, we have selected an ideal building in the harbor area of Brooklyn to develop a Barhems Market servicing real estate developers who need construction materials as well as furniture and appliances. Meanwhile, we plan to open a grand SPA resort In Flushing, featuring state-of-the-art designs, high-end amenities, private SPA services.");?>
+				<?php echo pll__("Focusing on real estate and capital investment, Barhems has 2 major projects in prime locations in NYC. We plan to develop a Barhems Mall with the luxury rental on the currently Macy's location in the heart of Flushing. In addition, we have selected an ideal building in the harbor area of Brooklyn to develop a Barhems Market servicing real estate developers who need construction materials as well as furniture and appliances.");?>
 			</p>
 			<?php //echo do_shortcode('[contact-form-7 id="160" title="Contact form 1"]');?>
 		</div>
