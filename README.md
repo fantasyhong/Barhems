@@ -4,6 +4,7 @@ This repo contains the custom theme for Barhems' website. (https://www.barhems.c
 
 
 <strong style="font-size:20px">Change Log</strong><br />
+
 9/7/2018:
 <ul>
 	<li>Front Page code cleanup</li>
