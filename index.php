@@ -48,17 +48,6 @@
 								wp_nav_menu( $defaults );
 
 							?>
-							<!-- <li class="nav-item dropdown " style="cursor: pointer;">
-								<div class="nav-link dropdown-toggle" to='/' id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-									Languages
-								</div>
-								<div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
-									<a href="<?php bloginfo('template_url'); ?>/barhems_ch/index.html" style="text-decoration: none;">
-										<div class="dropdown-item" style="text-align: center;">中文</div>
-									</a>
-								</div>
-							</li> -->
-					
 					</div>
 				</nav>
 			</div>
@@ -85,7 +74,6 @@
 			<p class="intro-text">
 				<?php echo pll__("Focusing on real estate and capital investment, Barhems has 2 major projects in prime locations in NYC. We plan to develop a Barhems Mall with the luxury rental on the currently Macy's location in the heart of Flushing. In addition, we have selected an ideal building in the harbor area of Brooklyn to develop a Barhems Market servicing real estate developers who need construction materials as well as furniture and appliances.");?>
 			</p>
-			<?php //echo do_shortcode('[contact-form-7 id="160" title="Contact form 1"]');?>
 		</div>
 		<div class="projects-carousel">
 			<div class="owl-carousel owl-theme">
@@ -165,28 +153,6 @@
 			</div>
 		</div>
 	</div>
-	<!-- <div class="team">
-		<h2 class="team-head">Our Team</h2>
-		<div class="team-container">
-			<div class="team-item">
-				<div class="member-img">
-					<div>
-						<img src="<?php bloginfo('template_url'); ?>/imgs/news2.jpg">
-					</div>
-				</div>
-				<div class="member-name">leo chen</div>
-				<div class="member-des">
-
-				</div>
-			</div>
-			<div class="team-item"></div>
-			<div class="team-item"></div>
-			<div class="team-item"></div>
-			<div class="team-item"></div>
-			<div class="team-item"></div>
-			<div class="team-item"></div>
-		</div>
-	</div> -->
 	
 	<?php get_footer(); ?>
 	
