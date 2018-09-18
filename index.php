@@ -107,7 +107,7 @@
 	<div class="intro">
 		<div class="intro1-container">
 			<div class="intro1-description">
-				<p><?php echo pll__('Founded in New York, Barhams Corporation has a wide range of resources, providing services for America commercial real estate investment, private equity funding, business development & management and online shopping platform.');?></p>
+				<p><?php echo pll__('Founded in New York, Barhems Corporation has a wide range of resources, providing services for America commercial real estate investment, private equity funding, business development & management and online shopping platform.');?></p>
 			</div>
 			<div class="intro1-row">
 				<div class="row-left">

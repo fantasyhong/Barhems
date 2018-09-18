@@ -59,7 +59,7 @@ pll_register_string( 'Home Page', 'Primary Projects' );
 pll_register_string( 'Home Page', "Focusing on real estate and capital investment, Barhems has 2 major projects in prime locations in NYC. We plan to develop a Barhems Mall with the luxury rental on the currently Macy's location in the heart of Flushing. In addition, we have selected an ideal building in the harbor area of Brooklyn to develop a Barhems Market servicing real estate developers who need construction materials as well as furniture and appliances." );
 pll_register_string( 'Home Page','Project Name:');
 pll_register_string( 'Home Page','Investment Size:');
-pll_register_string( 'Home Page','Founded in New York, Barhams Corporation has a wide range of resources, providing services for America commercial real estate investment, private equity funding, business development & management and online shopping platform.');
+pll_register_string( 'Home Page','Founded in New York, Barhems Corporation has a wide range of resources, providing services for America commercial real estate investment, private equity funding, business development & management and online shopping platform.');
 pll_register_string( 'Home Page','Commercial Real Estate ');
 pll_register_string( 'Home Page','If you are looking for a loyal partner in Commercial Real Estate related field, Barhems Corporation will be your best choice.');
 pll_register_string( 'Home Page','Shopping with us ');
