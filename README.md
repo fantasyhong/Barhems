@@ -4,7 +4,9 @@ This repo contains the custom theme for Barhems' website. (https://www.barhems.c
 
 
 <strong style="font-size:20px">Change Log</strong><br />
-10/1/2018:<br />
+
+10/1/2018:
+
 <b>Update:</b> Cronjob confirmed to be working, and HTTPS certificate is auto-renewed successfully.
 
 9/7/2018:
